@@ -176,5 +176,4 @@ OfficeDocProcessor.createPowerPoint(folderPath, outputPath)
 - Node.js版本要求: >= 12.0.0
 
 ## 许可证
-
-MIT 
+[Apache License 2.0](https://github.com/xsxdd/lsky-office-transition?tab=Apache-2.0-1-ov-file)
